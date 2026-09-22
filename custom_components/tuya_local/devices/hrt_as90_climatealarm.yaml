@@ -111,7 +111,7 @@ entities:
   - entity: sensor
     name: Temperature alarm
     class: enum
-    icon: "mdi:thermomter-alert"
+    icon: "mdi:thermometer-alert"
     category: diagnostic
     dps:
       - id: 14

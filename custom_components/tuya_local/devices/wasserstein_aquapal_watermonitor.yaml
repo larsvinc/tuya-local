@@ -88,7 +88,7 @@ entities:
     name: Minimum pressure
     class: pressure
     category: config
-    icon: "mdi:chevron-down-cirle-outline"
+    icon: "mdi:chevron-down-circle-outline"
     dps:
       - id: 106
         type: integer
@@ -101,7 +101,7 @@ entities:
     name: Maximum pressure
     class: pressure
     category: config
-    icon: "mdi:chevron-up-cirle-outline"
+    icon: "mdi:chevron-up-circle-outline"
     dps:
       - id: 107
         type: integer

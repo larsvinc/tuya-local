@@ -226,7 +226,7 @@ entities:
         name: value
   - entity: select
     name: Light type
-    icon: "mdi:lilghtbulb"
+    icon: "mdi:lightbulb"
     category: config
     dps:
       - id: 59

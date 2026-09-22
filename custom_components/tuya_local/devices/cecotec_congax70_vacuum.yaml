@@ -147,7 +147,7 @@ entities:
         name: serial_number
   - entity: switch
     name: Charge
-    icon: "mdi:battery_charging"
+    icon: "mdi:battery-charging"
     category: config
     dps:
       - id: 3

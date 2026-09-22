@@ -94,7 +94,7 @@ entities:
         mapping:
           - dps_val: led
             value: LED
-            icon: "mdi:lightbulbon-50"
+            icon: "mdi:lightbulb-on-50"
           - dps_val: incandescent
             value: Incandescent
             icon: "mdi:lightbulb-variant-outline"
@@ -121,7 +121,7 @@ entities:
         mapping:
           - dps_val: led
             value: LED
-            icon: "mdi:lightbulbon-50"
+            icon: "mdi:lightbulb-on-50"
           - dps_val: incandescent
             value: Incandescent
             icon: "mdi:lightbulb-variant-outline"

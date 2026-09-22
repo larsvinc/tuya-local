@@ -172,7 +172,7 @@ entities:
   - entity: select
     translation_key: activation_mode
     category: config
-    icon: "mdi:Bird"
+    icon: "mdi:bird"
     dps:
       - id: 231
         type: string

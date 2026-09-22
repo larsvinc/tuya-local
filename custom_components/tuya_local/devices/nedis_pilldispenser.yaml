@@ -504,7 +504,7 @@ entities:
   - entity: number
     name: Loaded compartments
     category: config
-    icon: "mdi:pill-mulitple"
+    icon: "mdi:pill-multiple"
     dps:
       - id: 127
         type: integer

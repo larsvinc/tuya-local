@@ -102,4 +102,4 @@ entities:
         name: switch
         mapping:
           - dps_val: false
-            icon: "mdi:hand-back-left--off"
+            icon: "mdi:hand-back-left-off"

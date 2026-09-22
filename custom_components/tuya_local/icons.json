@@ -228,7 +228,7 @@
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
-                            "cycle": "mdi:auto-renew"
+                            "cycle": "mdi:autorenew"
                         }
                     },
                     "preset_mode": {
@@ -267,7 +267,7 @@
                             "auto": "mdi:fan-auto",
                             "manual": "mdi:hand-back-left",
                             "sleep": "mdi:sleep",
-                            "low": "mdi:fan-speed--1",
+                            "low": "mdi:fan-speed-1",
                             "medium": "mdi:fan-speed-2",
                             "high": "mdi:fan-speed-3",
                             "strong": "mdi:weather-hurricane",
@@ -326,7 +326,7 @@
                             "program": "mdi:calendar-clock",
                             "high": "mdi:fan-speed-3",
                             "medium": "mdi:fan-speed-2",
-                            "low": "mdi:fan-speed--1",
+                            "low": "mdi:fan-speed-1",
                             "off": "mdi:fan-off"
                         }
                     }

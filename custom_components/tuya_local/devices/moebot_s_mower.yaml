@@ -213,11 +213,11 @@ entities:
             icon_priority: 1
           - dps_val: WORK_INTERRUPT
             value: Interrupted
-            icon: "mdi:alert-octogon"
+            icon: "mdi:alert-octagon"
             icon_priority: 1
           - dps_val: FIXED_MOWING_INTERRUPT
             value: Interrupted fixed mowing
-            icon: "mdi:alert-octogon"
+            icon: "mdi:alert-octagon"
             icon_priority: 1
           - dps_val: TURN_ON_BUTTON
             value: Turn on button
