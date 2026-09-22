@@ -425,7 +425,12 @@
                         "state": {
                             "laundry": "DSzáraz ruhák",
                             "purify": "Tisztítás",
-                            "continuous": "Folyamatos"
+                            "continuous": "Folyamatos",
+                            "ventilation": "Szellőztetés",
+                            "winter": "Tél",
+                            "anti_mold": "Penészgátló",
+                            "low": "Alacsony",
+                            "high": "Magas"
                         }
                     }
                 }

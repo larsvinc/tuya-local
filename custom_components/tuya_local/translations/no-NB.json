@@ -425,7 +425,12 @@
                         "state": {
                             "laundry": "Tørk klær",
                             "purify": "Rens",
-                            "continuous": "Kontinuerlig"
+                            "continuous": "Kontinuerlig",
+                            "ventilation": "Ventilasjon",
+                            "winter": "Vinter",
+                            "anti_mold": "Antimugg",
+                            "low": "Lav",
+                            "high": "Høy"
                         }
                     }
                 }

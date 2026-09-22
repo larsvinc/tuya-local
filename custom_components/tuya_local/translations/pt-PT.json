@@ -425,7 +425,12 @@
                         "state": {
                             "laundry": "Roupa seca",
                             "purify": "Purificar",
-                            "continuous": "Contínuo"
+                            "continuous": "Contínuo",
+                            "ventilation": "Ventilação",
+                            "winter": "Inverno",
+                            "anti_mold": "Antibolor",
+                            "low": "Baixo",
+                            "high": "Alto"
                         }
                     }
                 }

@@ -463,7 +463,12 @@
                         "state": {
                             "laundry": "Roba eixuta",
                             "purify": "Purifica",
-                            "continuous": "Continu"
+                            "continuous": "Continu",
+                            "ventilation": "Ventilació",
+                            "winter": "Hivern",
+                            "anti_mold": "Antifloridura",
+                            "low": "Baix",
+                            "high": "Alt"
                         }
                     }
                 }

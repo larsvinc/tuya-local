@@ -425,7 +425,12 @@
                         "state": {
                             "laundry": "Uscare rufe",
                             "purify": "Purificare",
-                            "continuous": "Continuu"
+                            "continuous": "Continuu",
+                            "ventilation": "Ventilație",
+                            "winter": "Iarnă",
+                            "anti_mold": "Anti-mucegai",
+                            "low": "Scăzut",
+                            "high": "Ridicat"
                         }
                     }
                 }

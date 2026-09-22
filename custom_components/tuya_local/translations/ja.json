@@ -425,7 +425,12 @@
                         "state": {
                             "laundry": "洗濯乾燥",
                             "purify": "浄化",
-                            "continuous": "連続"
+                            "continuous": "連続",
+                            "ventilation": "換気",
+                            "winter": "冬",
+                            "anti_mold": "カビ防止",
+                            "low": "低い",
+                            "high": "高い"
                         }
                     }
                 }

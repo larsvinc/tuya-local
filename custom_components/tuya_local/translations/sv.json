@@ -425,7 +425,12 @@
                         "state": {
                             "laundry": "Torka kläder",
                             "purify": "Rena",
-                            "continuous": "Kontinuerlig"
+                            "continuous": "Kontinuerlig",
+                            "ventilation": "Ventilation",
+                            "winter": "Vinter",
+                            "anti_mold": "Mögelskydd",
+                            "low": "Låg",
+                            "high": "Hög"
                         }
                     }
                 }

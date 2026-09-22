@@ -425,7 +425,12 @@
                         "state": {
                             "laundry": "Wäsche trocknen",
                             "purify": "Reinigen",
-                            "continuous": "Dauerbetrieb"
+                            "continuous": "Dauerbetrieb",
+                            "ventilation": "Lüftung",
+                            "winter": "Winter",
+                            "anti_mold": "Antischimmel",
+                            "low": "Niedrig",
+                            "high": "Hoch"
                         }
                     }
                 }

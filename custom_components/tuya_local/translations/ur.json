@@ -425,7 +425,12 @@
                         "state": {
                             "laundry": "خشک کپڑے",
                             "purify": "پاک کریں۔",
-                            "continuous": "مسلسل"
+                            "continuous": "مسلسل",
+                            "ventilation": "وینٹیلیشن",
+                            "winter": "سردی",
+                            "anti_mold": "پھپھوندی سے بچاؤ",
+                            "low": "کم",
+                            "high": "زیادہ"
                         }
                     }
                 }

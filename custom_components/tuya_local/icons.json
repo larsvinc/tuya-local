@@ -372,7 +372,12 @@
                         "state": {
                             "laundry": "mdi:tshirt-crew",
                             "purify": "mdi:air-filter",
-                            "continuous": "mdi:fan"
+                            "continuous": "mdi:fan",
+                            "ventilation": "mdi:hvac",
+                            "winter": "mdi:snowflake",
+                            "anti_mold": "mdi:mushroom-off",
+                            "low": "mdi:fan-speed-1",
+                            "high": "mdi:fan-speed-3"
                         }
                     }
                 }

@@ -425,7 +425,12 @@
                         "state": {
                             "laundry": "Sušení prádla",
                             "purify": "Očistit",
-                            "continuous": "Nepřetržitý"
+                            "continuous": "Nepřetržitý",
+                            "ventilation": "Ventilace",
+                            "winter": "Zima",
+                            "anti_mold": "Proti plísni",
+                            "low": "Nízký",
+                            "high": "Vysoký"
                         }
                     }
                 }

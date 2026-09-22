@@ -425,7 +425,12 @@
                         "state": {
                             "laundry": "Vêtements secs",
                             "purify": "Purifier",
-                            "continuous": "Continu"
+                            "continuous": "Continu",
+                            "ventilation": "Ventilation",
+                            "winter": "Hiver",
+                            "anti_mold": "Anti-moisissure",
+                            "low": "Bas",
+                            "high": "Haut"
                         }
                     }
                 }
